@@ -1,2 +1,2 @@
-this tree was taking in arguments from the command line via text file. I need to edit it to allow 
-passing arguments once the programs running.. or just fix the command line arguments .. ha
+tree was taking in arguments from the command line via text file. I need to edit it to allow 
+passing arguments once the programs running.. or just fix the command line arguments->very brute force .. much poor form
