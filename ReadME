@@ -1,4 +1,2 @@
-This a first attempt to add a file from the website..
-
-Aside from that.. this tree was taking in arguments from the command line via text file. I need to edit it to allow 
+this tree was taking in arguments from the command line via text file. I need to edit it to allow 
 passing arguments once the programs running.. or just fix the command line arguments .. ha
